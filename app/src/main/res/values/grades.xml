@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="grades">
+        <item>EX</item>
+        <item>AA</item>
+        <item>AB</item>
+        <item>BB</item>
+        <item>BC</item>
+        <item>CC</item>
+        <item>CD</item>
+        <item>DD</item>
+        <item>DE</item>
+        <item>EE</item>
+    </string-array>
+</resources>
